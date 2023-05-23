@@ -1,5 +1,5 @@
 Для запуска телеграм-бота необходимо:
-1) Скачать проект из GitHub (https://github.com/ZverevNikita/Telegram_Bot_Organization_of_leisure_activities)
+1) Скачать проект из GitHub (https://github.com/ZverevNikita/Organization_of_leisure_activities)
 2) Открыть данный проект в PyCharm
 3) Запустить проект с помощью основного файла проекта main.py
 4) Ввести в поисковике телеграма: @LeisureActivitiesBot
